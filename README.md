@@ -3,7 +3,7 @@
 21482 Group 2
 # Team Members 
 Rohan Patel [yourGitHubNameHere](yourGitHub URL Here)  <br>
-Grace Okpurukre  [yourGitHubNameHere](yourGitHub URL Here) <br>
+Grace Okpurukre  [@graceokpurukre](https://github.com/graceokpurukre) <br>
 Lindsey Isenberg [yourGitHubNameHere](yourGitHub URL Here)  <br>
 Catherine Repke  [yourGitHubNameHere](yourGitHub URL Here) <br> 
 Ore Pratt [@nathanp2020](https://github.com/nathanp2020) <br> 
